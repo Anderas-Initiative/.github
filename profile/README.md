@@ -7,8 +7,7 @@ Welcome to the official GitHub organization for **The Andreas Initiative FiveM S
 - **Vantix** — Co-Founder
 
 ## 🌐 Community Links
-- **Website:** [anderasinitiative.online](https://www.anderasinitiative.online)
-- **Discord:** [anderasinitiative.online/join](https://www.anderasinitiative.online/join)
+- **Discord:** [anderasinitiative.online/join](https://discord.gg/YaaEnHTSvk)
 
 ## 📖 About Us
 The Andreas Initiative is a realistic FiveM community focused on immersive emergency services, civilian roleplay, and professional server development. This GitHub contains resources, projects, and tools developed for our community.
