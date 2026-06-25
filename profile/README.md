@@ -3,8 +3,8 @@
 Welcome to the official GitHub organization for **The Andreas Initiative FiveM Server**.
 
 ## 👨‍💻 Development Team
-- **Vantix** — Founder
-- **Crazy** — Co-Founder
+- **Crazy** — Founder
+- **Vantix** — Co-Founder
 
 ## 🌐 Community Links
 - **Website:** [anderasinitiative.online](https://www.anderasinitiative.online)
